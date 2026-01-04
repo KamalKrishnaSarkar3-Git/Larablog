@@ -1,0 +1,4 @@
+
+php artisan optimize    --> for route/code optimize
+
+composer require phpmailer/phpmailer   --> for send the mail in email for forgot password
